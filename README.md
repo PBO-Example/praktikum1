@@ -20,7 +20,7 @@ Catatan Penting:
 1. Semua kode program yang ada di src\test\java  tidak boleh diubah sama sekali!! Jika anda ubah (akan terlihat pada history), maka nilai anda langsung 0.
 1. Untuk dapat mengerjakan tugas ini secara offline (pada PC/laptop masing) ikuti perintah berikut ini:
 	1. Pada command prompt di pc anda ketik: 
-	   * >git clone alamatrepo
+	   * > >git clone alamatrepo
 	   * Silahkan anda perbaik file kode program yang diminta menggunakan edit++
     1. Anda bisa test program anda secara manual dengan ketik ini pada command prompt
        folder repo >gradle test
