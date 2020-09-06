@@ -45,11 +45,9 @@ public class TestOperasiArg {
         PrintStream originalOut = System.out;
 		ByteArrayOutputStream bos = new ByteArrayOutputStream();
 		System.setOut(new PrintStream(bos));
-		int x=30;
-		int y=10;
 		
 		// action
-		String result =x+"x"+y+"="+opArg.kali(x,y)+"\n"+x+"/"+y+"="+opArg.bagi(x,y)+"\n"+x+"+"+y+"="+opArg.tambah(x,y)+"\n"+x+"-"+y+"="+opArg.kurang(x,y)+"\n";
+		String result ="30x10=300\n30/10=3.0\n30+10=40\n30-10=20\n";
 		OperasiArg.main(new String[] {"30","10"});
 		
 		// assertion
@@ -63,12 +61,10 @@ public class TestOperasiArg {
         PrintStream originalOut = System.out;
 		ByteArrayOutputStream bos = new ByteArrayOutputStream();
 		System.setOut(new PrintStream(bos));
-		int x=50;
-		int y=4;
-		
+				
 		// action
-		String result =x+"x"+y+"="+opArg.kali(x,y)+"\n"+x+"/"+y+"="+opArg.bagi(x,y)+"\n"+x+"+"+y+"="+opArg.tambah(x,y)+"\n"+x+"-"+y+"="+opArg.kurang(x,y)+"\n";
-		OperasiArg.main(new String[] {"50","4"});
+		String result ="8x5=40\n8/5=1.6\n8+5=13\n8-5=3\n";
+		OperasiArg.main(new String[] {"8","5"});
 		// assertion
 		assertEquals(result, bos.toString());
 

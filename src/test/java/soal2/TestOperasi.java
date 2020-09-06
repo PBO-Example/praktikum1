@@ -1,7 +1,7 @@
 //OperasiTest.java
 package soal6b;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -45,7 +45,8 @@ public class TestOperasi {
 		System.setOut(new PrintStream(bos));
 		
 		// action
-		String result ="11x2="+op.kali(11,2)+"\n11/2="+op.bagi(11,2)+"\n11+2="+op.tambah(11,2)+"\n11-2="+op.kurang(11,2)+"\n";
+		String result ="11x2=22\n11/2=5.5\n11+2=13\n11-2=9\n";
+		assertNotNull(result, "gh");
 		Operasi.main(null);
 		// assertion
 		assertEquals(result, bos.toString());
