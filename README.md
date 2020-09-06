@@ -3,11 +3,11 @@ Baca instruksi yang diberikan dengan baik.
 1. [Poin 10]Perbaiki file HelloWorld.java sehingga menampilkan pesan berikut ke layar: Hello World!!
 1. [Poin 10]Perbaiki file HelloWorld.java sehingga menerima input dari user misalnya Butet dan menampilkan pesan berikut ke layar: Hello Butet!
 1. Perbaiki file Operasi.java sehingga mempunyai 4 buah method: 
-     1. [Poin 5]method kali() yang mengembalikan hasil perkalian dua buah bilangan integer, 
+     2. [Poin 5]method kali() yang mengembalikan hasil perkalian dua buah bilangan integer, 
      2. [Poin 5]method bagi() yang mengembalikan hasil pembagian bilangan integer pertama dengan bilangan integer kedua, 
-     3. [Poin 5] method tambah() yang mengembalikan hasil penjumlahan dua bilangan integer, dan  
-     4. [Poin 5] method kurang() yang mengembalikan hasil pengurangan bilangan integer pertama dengan bilangan integer kedua.
-     5. [Poin 10] menampilkan pesan berikut ke layar:
+     2. [Poin 5] method tambah() yang mengembalikan hasil penjumlahan dua bilangan integer, dan  
+     2. [Poin 5] method kurang() yang mengembalikan hasil pengurangan bilangan integer pertama dengan bilangan integer kedua.
+     2. [Poin 10] menampilkan pesan berikut ke layar:
                 10x2=20
                 10/2=5
                 10+2=12
