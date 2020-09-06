@@ -15,7 +15,7 @@ Baca instruksi yang diberikan dengan baik.
                 10-2=8
 		
 
-1. **[10]** Perbaiki program Operasi.java sehingga dapat megoperasikan (kali, bagi, tambah, kurang) pada nilai operator argument yang dilewatkan saat program dieksekusi. Simpan dengan nama OperasiArg.java
+1. **[10]** Perbaiki program OperasiArg.java sehingga dapat megoperasikan (kali, bagi, tambah, kurang) pada nilai operator argument yang dilewatkan saat program dieksekusi.
 
 Catatan Penting:
 1. Anda hanya boleh mengubah kode program yang ada di src\main\java
