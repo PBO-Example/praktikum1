@@ -21,6 +21,7 @@ Catatan Penting:
 1. Untuk dapat mengerjakan tugas ini secara offline (pada PC/laptop masing) ikuti perintah berikut ini:
 	1. Pada command prompt di pc anda ketik: 
 	   * git clone alamatrepo
+	   contoh: git clone https://github.com/education/auto-example
 	   * Silahkan anda perbaik file kode program yang diminta menggunakan edit++
     1. Anda bisa test program anda secara manual dengan ketik ini pada command prompt
        folder repo >gradle test
@@ -31,4 +32,5 @@ Catatan Penting:
 		1. git commit -m "isi dengan pesan perubaha"
 		1. git push
 	1. Jika anda tidak mengupload file-file yang sudah anda ubah di lokal anda (PC/Laptop) ke repo di githud (dengan langkah2 pada 3.c) maka nilai anda 0.
-
+	
+	Anda bisa juga menggunakan Github desktop (jangan lupa commit dan push untuk upload perubahan ke github repo)
