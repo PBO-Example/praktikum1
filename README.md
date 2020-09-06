@@ -23,13 +23,15 @@ Catatan Penting:
 	   * git clone alamatrepo
 	   contoh: git clone https://github.com/education/auto-example
 	   * Silahkan anda perbaik file kode program yang diminta menggunakan edit++
-    1. Anda bisa test program anda secara manual dengan ketik ini pada command prompt
+    1. Pastikan semua template kode program yang ada di src\main\java sudah lulus kompilasi.
+	1. Setelah semua template lulus kompilasi, Anda bisa test program anda secara manual dengan ketik ini pada command prompt
        folder repo >gradle test
+	   atau folder repo >gradle test --test TestHello
     1. Setelah selesai, segera gunakan perintah di bawah ini untuk mengupload file-file yang sudah anda ubah ke repo github
 		1. git add path/namafile.java
         misalnya: >git src/main/java/HelloWorld.java
         lakukan untuk setiap file yang sudah diperbaiki.
-		1. git commit -m "isi dengan pesan perubaha"
+		1. git commit -m "isi dengan pesan perubahan"
 		1. git push
 	1. Jika anda tidak mengupload file-file yang sudah anda ubah di lokal anda (PC/Laptop) ke repo di githud (dengan langkah2 pada 3.c) maka nilai anda 0.
 	
