@@ -10,11 +10,8 @@ Baca instruksi yang diberikan dengan baik.
      1. **[Poin 10]** menampilkan pesan berikut ke layar:
      
                 10x2=20
-		
                 10/2=5
-		
                 10+2=12
-		
                 10-2=8
 		
 
