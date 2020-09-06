@@ -20,15 +20,15 @@ Catatan Penting:
 1. Semua kode program yang ada di src\test\java  tidak boleh diubah sama sekali!! Jika anda ubah (akan terlihat pada history), maka nilai anda langsung 0.
 1. Untuk dapat mengerjakan tugas ini secara offline (pada PC/laptop masing) ikuti perintah berikut ini:
 	1. Pada command prompt di pc anda ketik: 
-	   * > >git clone alamatrepo
+	   * git clone alamatrepo
 	   * Silahkan anda perbaik file kode program yang diminta menggunakan edit++
     1. Anda bisa test program anda secara manual dengan ketik ini pada command prompt
        folder repo >gradle test
     1. Setelah selesai, segera gunakan perintah di bawah ini untuk mengupload file-file yang sudah anda ubah ke repo github
-		1. > git add path/namafile.java
+		1. git add path/namafile.java
         misalnya: >git src/main/java/HelloWorld.java
         lakukan untuk setiap file yang sudah diperbaiki.
-		1. > git commit -m "isi dengan pesan perubaha"
-		1. > git push
+		1. git commit -m "isi dengan pesan perubaha"
+		1. git push
 	1. Jika anda tidak mengupload file-file yang sudah anda ubah di lokal anda (PC/Laptop) ke repo di githud (dengan langkah2 pada 3.c) maka nilai anda 0.
 
