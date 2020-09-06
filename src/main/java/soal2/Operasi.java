@@ -13,13 +13,13 @@ public class Operasi{
       static int kali (int x, int y){
              return x * y;
       }
-      static double bagi (int m,int n){
+      static double bagi (){
            return (double)m/n;
       }
-	  static int tambah (int m,int n){
-           return m + n;
+	  static int tambah (){
+           return 0;
       }
-	  static int kurang (int m,int n){
-           return m-n;
+	  static int kurang (){
+           return 0;
       }
 }

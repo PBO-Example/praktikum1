@@ -17,10 +17,10 @@ public class OperasiArg{
       static double bagi (int m,int n){
            return (double)m/n;
       }
-	  static int tambah (int m,int n){
-           return m + n;
+	  static int tambah (){
+           return 0;
       }
-	  static int kurang (int m,int n){
-           return m - n;
+	  static int kurang (){
+           return 0;
       }
 }
