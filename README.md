@@ -12,6 +12,7 @@ Baca instruksi yang diberikan dengan baik.
      1. **[Poin 5]** method kurang() yang mengembalikan hasil pengurangan bilangan integer pertama dengan bilangan integer kedua.
      1. **[Poin 10]** menampilkan pesan berikut ke layar:
 	 
+	 
                 10x2=20
                 10/2=5
                 10+2=12
