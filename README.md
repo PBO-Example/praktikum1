@@ -39,14 +39,14 @@ Catatan Penting:
 	   > Perintah gradle test akan menjalankan semua program test yang ada pada src\test\java
        
 	   
-	   --(masuk ke folder repo) >gradle test--
+	   *(masuk ke folder repo) >gradle test*
 	   
 	   > atau menjalankan program test satu persatu. Satu program test digunakan untuk menguji satu kode program di src\main\java.
 	   
 	   
-	   --folder repo >gradle test --test nama_file_test--
+	   *folder repo >gradle test --test nama_file_test*
 	   
-	   contoh: folder repo >gradle test --tests TestHello
+	   contoh: *folder repo >gradle test --tests TestHello*
 	   
     1. Setelah selesai, segera gunakan perintah di bawah ini untuk mengupload file-file yang sudah anda ubah ke repo github
 		1. git add path/namafile.java
