@@ -9,6 +9,7 @@ Baca instruksi yang diberikan dengan baik.
 1. **[Poin 10]** Perbaiki file HelloPerson.java sehingga menerima input dari user misalnya Butet dan menampilkan pesan berikut ke layar: 
 
       Hello Butet!
+	  
 1. Perbaiki file Operasi.java sehingga mempunyai 4 buah method: 
      1. **[Poin 5]** method kali() yang mengembalikan hasil perkalian dua buah bilangan integer, 
      1. **[Poin 5]** method bagi() yang mengembalikan hasil pembagian bilangan integer pertama dengan bilangan integer kedua, 
