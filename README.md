@@ -28,6 +28,7 @@ Baca instruksi yang diberikan dengan baik.
 Catatan Penting:
 1. Anda hanya boleh mengubah kode program yang ada di src\main\java
 1. **Semua kode program yang ada di src\test\java  tidak boleh diubah sama sekali!!** Jika anda ubah (akan terlihat pada history), maka nilai anda langsung 0.
+1. Jangan memindah-mindahkan file, biarkan setiap file di folder di mana file tersebut berada sebelumnya.
 1. Untuk dapat mengerjakan tugas ini secara offline (pada PC/laptop masing) ikuti perintah berikut ini:
 	1. Pada command prompt di pc anda ketik: 
 	   * git clone alamatrepo
@@ -36,9 +37,13 @@ Catatan Penting:
     1. Pastikan semua template kode program yang ada di src\main\java sudah lulus kompilasi. Anda bisa menggunakan perintah javac atau java (pastikan package di comment dulu) atau menggunakan perintah gradle test (package tidak perlu di-comment).
 	1. Setelah semua template lulus kompilasi, Anda bisa test program anda secara manual dengan ketik ini pada command prompt:
 	   > Perintah gradle test akan menjalankan semua program test yang ada pada src\test\java
-       (masuk ke folder repo) >gradle test
+       
 	   
-	   atau 
+	   (masuk ke folder repo) >gradle test
+	   
+	   > atau menjalankan program test satu persatu. Satu program test digunakan untuk menguji satu kode program di src\main\java.
+	   
+	   
 	   folder repo >gradle test --test nama_file_test
 	   contoh: folder repo >gradle test --tests TestHello
 	   
