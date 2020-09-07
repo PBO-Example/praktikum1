@@ -49,6 +49,8 @@ Catatan Penting:
 	   contoh: ***folder repo >gradle test --tests TestHello***
 	   
     1. Setelah selesai, segera gunakan perintah di bawah ini untuk mengupload file-file yang sudah anda ubah ke repo github
+	
+	
 			1. Add file: *folder repo >git add path/namafile.java*
         
 		
@@ -58,13 +60,13 @@ Catatan Penting:
 		
 		
 			   lakukan untuk setiap file yang sudah diperbaiki.
-			1. Commit file: *git commit -m "isi dengan pesan perubahan"**
+			2. Commit file: *git commit -m "isi dengan pesan perubahan"**
 		
 		       misalnya:
 		
 		       ***folder repo >git commit -m "update file HelloWorld.java dan HelloPerson.java"***
 		
-		    1. push file ke sertver github:*folder repo >git push *
+		    3. push file ke sertver github:*folder repo >git push *
 		
 		
 		       git add dan git commit saja belum mentransfer file-file anda ke repo github. git push yang akan mentransfer file-file tersebut. 
