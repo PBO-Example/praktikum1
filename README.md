@@ -3,8 +3,12 @@ Baca instruksi yang diberikan dengan baik.
 >File-file berikut ini bisa anda temukan di folder **src\main\java**.
 >Sejumlah file tersebut (template file) sengaja dibiarkan salah sintaks yang akan menyebabkan compile error.
 >Sebelum mengerjakan butir-butir berikut ini, pastikan semua kesalahan sintaks sudah anda perbaiki sehingga lulus kompilasi. 
-1. **[Poin 10]** Perbaiki file HelloWorld.java sehingga menampilkan pesan berikut ke layar: Hello World!!
-1. **[Poin 10]** Perbaiki file HelloPerson.java sehingga menerima input dari user misalnya Butet dan menampilkan pesan berikut ke layar: Hello Butet!
+1. **[Poin 10]** Perbaiki file HelloWorld.java sehingga menampilkan pesan berikut ke layar: 
+
+       Hello World!!
+1. **[Poin 10]** Perbaiki file HelloPerson.java sehingga menerima input dari user misalnya Butet dan menampilkan pesan berikut ke layar: 
+
+      Hello Butet!
 1. Perbaiki file Operasi.java sehingga mempunyai 4 buah method: 
      1. **[Poin 5]** method kali() yang mengembalikan hasil perkalian dua buah bilangan integer, 
      1. **[Poin 5]** method bagi() yang mengembalikan hasil pembagian bilangan integer pertama dengan bilangan integer kedua, 
