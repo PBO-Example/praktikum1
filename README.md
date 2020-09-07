@@ -1,6 +1,6 @@
 # praktikum1
 Baca instruksi yang diberikan dengan baik.
->File-file berikut ini bisa anda temukan di folder src\main\java
+>File-file berikut ini bisa anda temukan di folder **src\main\java**.
 >Sejumlah file tersebut (template file) sengaja dibiarkan salah sintaks yang akan menyebabkan compile error.
 >Sebelum mengerjakan butir-butir berikut ini, pastikan semua kesalahan sintaks sudah anda perbaiki sehingga lulus kompilasi. 
 1. **[Poin 10]** Perbaiki file HelloWorld.java sehingga menampilkan pesan berikut ke layar: Hello World!!
@@ -11,6 +11,7 @@ Baca instruksi yang diberikan dengan baik.
      1. **[Poin 5]** method tambah() yang mengembalikan hasil penjumlahan dua bilangan integer, dan  
      1. **[Poin 5]** method kurang() yang mengembalikan hasil pengurangan bilangan integer pertama dengan bilangan integer kedua.
      1. **[Poin 10]** menampilkan pesan berikut ke layar:
+	 
                 10x2=20
                 10/2=5
                 10+2=12
