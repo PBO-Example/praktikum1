@@ -18,12 +18,12 @@ Baca instruksi yang diberikan dengan baik.
      1. **[Poin 10]** menampilkan pesan berikut ke layar:
 	 
 	 
-                10x2=20
-                10/2=5
-                10+2=12
-                10-2=8
+                11x2=22
+                11/2=5.5
+                11+2=13
+                11-2=9
 
-1. **[10]** Perbaiki program Operasi.java sehingga dapat megoperasikan (kali, bagi, tambah, kurang) pada nilai operator argument yang dilewatkan saat program dieksekusi. Simpan dengan nama OperasiArg.java
+1. **[10]** Perbaiki program OperasiArg.java sehingga dapat megoperasikan (kali, bagi, tambah, kurang) pada nilai operator argument yang dilewatkan saat program dieksekusi. 
 
 Catatan Penting:
 1. Anda hanya boleh mengubah kode program yang ada di src\main\java
